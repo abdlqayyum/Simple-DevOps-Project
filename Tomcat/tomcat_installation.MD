@@ -35,7 +35,7 @@ access tomcat application from browser on prot 8080
 tomcatdown
 tomcatup
 ```
-#### Check point :
+#### Check point:
 Access tomcat application from browser on prot 8090  
  - http://<Public_IP>:8090
 
